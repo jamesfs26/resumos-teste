@@ -1,0 +1,1 @@
+Criando e Empurrando do local para o remoto com "git pull"
